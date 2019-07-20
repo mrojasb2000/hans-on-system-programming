@@ -7,3 +7,4 @@ This section consists of the following chapters:
 
   * Chapter 1: An Introduction to System Programming.
   * Chapter 2: Unix OS Components.
+  * Chapter 3: An Overview of Go.
