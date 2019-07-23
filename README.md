@@ -13,4 +13,10 @@ This section consists of the following chapters:
       - An overview of system calls
       - The POSIX standard
   * Chapter 2: Unix OS Components.
+    The following topics will be covered in this capter:
+      - Memory manager
+      - File and filesystem
+      - Processes
+      - Users, groups, and permissions
+      - Process communications
   * Chapter 3: An Overview of Go.
